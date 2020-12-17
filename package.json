@@ -1,0 +1,13 @@
+{
+  "name": "DependabotTestRepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milind Pincha <milind009pincha@gmail.com>",
+  "dependencies": {
+    "dot-prop": "4.2.0"
+  }
+}
