@@ -8,6 +8,6 @@
   },
   "author": "Milind Pincha <milind009pincha@gmail.com>",
   "dependencies": {
-    "dot-prop": "4.2.0"
+    "configstore": "3.1.2"
   }
 }
